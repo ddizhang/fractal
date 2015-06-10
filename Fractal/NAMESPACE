@@ -1,0 +1,10 @@
+export(ArrowheadCurve,CreateHCF, getJulia, getPattern, hilbert.curve,julia,koch,kochPattern,kochPlus, kochSnowFlake,mandelbrot, modKochPattern, SiepinskyGasked, WallPaperPattern )
+
+S3method(plot,"Hilbert")
+S3method(plot,"Julia")
+S3method(plot,"KochPlusCurve")
+S3method(plot,"KochSnowFlake")
+S3method(plot,"Mandelbrot")
+S3method(plot,"stc")
+
+useDynLib(fractal)

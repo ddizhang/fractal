@@ -1,0 +1,10 @@
+Package: Fractal
+Type: Package
+Title: Fractal Package
+Version: 1.0
+Date: 2015-06-07
+Author: Guannan Liang, Luhong Pan, Di Zhang
+Maintainer: Guannan Liang <gnliang@ucdavis.edu>
+Description: This package included Julia set, Koch curve set, Sierpinski Triangle Family,Hilbert Curve and their extension set. The main function of the package is applying different algorithm to generate sets of different dimensions and visualize them. 
+License: GPL-2
+Suggests: testthat
